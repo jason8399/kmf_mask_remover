@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         kmf_mask_remover
 // @namespace    https://github.com/jason8399
-// @version      0.1
+// @version      0.1.1
 // @description  Remove the blurred mask added by the policy of kmf to restrict globle user.
 // @author       JasonPan
 // @match        https://toefl.kmf.com/*/ets/*
+// @match        https://toefl.kmf.com/mock*
 // @grant        none
 // ==/UserScript==
 
